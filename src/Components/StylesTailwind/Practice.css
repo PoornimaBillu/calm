@@ -1,0 +1,24 @@
+/* <h3 class="bg-green-200 text-yellow-600">Hello</h3>
+<div class="h-10 w-10 rounded-full bg-fuchsia-500 text-center">Div1</div>
+<div class="grid grid-cols-5">
+  <div class="rounded bg-red-500 text-center">div1</div>
+  <div class="bg-gray-700 text-left">div2</div>
+  <div class="bg-pink-500 text-right">div3</div>
+  <div class="m-4 h-10 w-10 rounded-full bg-orange-300 p-1.5 text-center">div1</div>
+  <div>div1</div>
+</div>
+<button class="bg-gradient-to-r from-purple-600 to-blue-600  hover:from-cyan-500 hover:to-yellow-500 focus:outline-none focus:ring focus:ring bg-purple-200 active:bg-blue-200 px-6 py-3 rounded-lg text-white font-semibold shadow-md transition duration-300 ease-in-out transform hover:scale-125 text-center">Click</button>
+<button class="bg-gradient-to-r from-green-500 to-pink-500 hover:from-purple-600 hover:to-blue-600 px-4 py-3 rounded text-white font-semibold shadow-md transition duration-300 ease-in-out transform hover:scale-125">Click Me </button>
+
+<h4 class="bg-gray-200 text-purple-600">This is H4 Heading</h4>
+<h3 class="font-semibold ">This is H3 Heading</h3>
+<ul>
+  <li class="bg-green-200 text-center m-2 odd:bg-yellow-300  even: bg-slate-400 text-green-800">List Item 1
+    </li>
+    <li class="bg-green-200 text-center m-2 odd:bg-yellow-300  even: bg-slate-400 text-green-800">List Item 2
+    </li>
+    <li class="bg-green-200 text-center m-2 odd:bg-yellow-300  even: bg-slate-400 text-green-800">List Item 3
+    </li>
+    <li  class="bg-green-200 text-center m-2 odd:bg-yellow-300  even: bg-slate-400 text-green-800">List Item 4 
+    </li>
+  </ul> */

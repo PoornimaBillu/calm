@@ -1,0 +1,59 @@
+.after_bring{
+    background-color: #cce6da;
+    color: green;
+}
+.bdiv{
+    /* height: 80px;
+    width: 600px;
+     */
+     background-color: #cce6da;
+    align-items: center;
+    border: 1px dotted green;
+    color: green;
+   
+}
+.c9h1{
+    font-size: 22px;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.btnnextbring{
+    background-color: aquamarine;
+    color: #000;
+}
+.c9h2{
+    color: #0ac44b;
+    font-size: 24px;
+    font-weight: 600;
+}
+.c9h3{
+    color: #4b7dc4;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.c10p10{
+    color: #7d0b6e;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.p10{
+    color: #1d6cb5;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.sp10{
+    color: #102678;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+.pppp{
+    color: #0b79b5;
+
+    font-size: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,32 @@
+.btnsforcalm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sleepbtn{
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+    align-items: center;
+    margin-top: 10px;
+    border-color: aquamarine;
+    display: flex;
+    align-items: center;
+
+}
+button{
+    border-radius: 20px;
+    width: 30%;
+    padding: 10px;
+    align-items: center;
+    margin-top: 10px;
+    border-color: aquamarine;
+    border: 0px solid none;
+    text-align: center;
+    /* justify-content: center;
+    gap: 10px; */
+}
+.sleepimage{
+    height: 50px;
+    width: 50px;
+}
